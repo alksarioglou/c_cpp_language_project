@@ -1,2 +1,2 @@
-# c_language_project
+# Projects written in C
 A few training exercises in C
